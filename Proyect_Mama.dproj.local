@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/11/23 18:40:15.000.492,=C:\Users\Juanma\Desktop\Delphy Workspace\Unit1.pas</Transaction>
+    <Transaction>2021/01/19 14:00:54.000.963,=C:\Users\Juanma\Desktop\Delphy Workspace\Unit1.pas</Transaction>
+    <Transaction>2021/01/24 14:01:03.000.128,=C:\Users\Juanma\Desktop\Delphy Workspace\Unit1.pas</Transaction>
+    <Transaction>2021/01/24 14:02:39.000.999,C:\Users\Juanma\Desktop\ProyectoMama\Principal.dfm=C:\Users\Juanma\Desktop\Delphy Workspace\Unit1.dfm</Transaction>
+    <Transaction>2021/01/24 14:02:39.000.999,C:\Users\Juanma\Desktop\ProyectoMama\Principal.pas=C:\Users\Juanma\Desktop\Delphy Workspace\Unit1.pas</Transaction>
+    <Transaction>2021/01/24 14:04:40.000.016,=C:\Users\Juanma\Desktop\Delphy Workspace\Unit2.pas</Transaction>
+    <Transaction>2021/01/24 14:05:22.000.204,C:\Users\Juanma\Desktop\ProyectoMama\Nueva_Familia.dfm=C:\Users\Juanma\Desktop\Delphy Workspace\Unit2.dfm</Transaction>
+    <Transaction>2021/01/24 14:05:22.000.204,C:\Users\Juanma\Desktop\ProyectoMama\Nueva_Familia.pas=C:\Users\Juanma\Desktop\Delphy Workspace\Unit2.pas</Transaction>
+    <Transaction>2021/01/24 14:06:11.000.707,=C:\Users\Juanma\Desktop\Delphy Workspace\Unit3.pas</Transaction>
+    <Transaction>2021/01/24 14:06:21.000.876,C:\Users\Juanma\Desktop\ProyectoMama\datos.dfm=C:\Users\Juanma\Desktop\Delphy Workspace\Unit3.dfm</Transaction>
+    <Transaction>2021/01/24 14:06:21.000.876,C:\Users\Juanma\Desktop\ProyectoMama\datos.pas=C:\Users\Juanma\Desktop\Delphy Workspace\Unit3.pas</Transaction>
+    <Transaction>2021/01/24 14:11:15.000.984,C:\Users\Juanma\Desktop\ProyectoMama\Proyect_Mama.dproj=C:\Users\Juanma\Desktop\Delphy Workspace\Project1.dproj</Transaction>
+    <Transaction>2021/01/25 12:41:44.000.634,=C:\Users\Juanma\Desktop\ProyectoMama\Unit2.pas</Transaction>
+    <Transaction>2021/01/25 12:42:15.000.845,C:\Users\Juanma\Desktop\ProyectoMama\Lista_familias.pas=C:\Users\Juanma\Desktop\ProyectoMama\Unit2.pas</Transaction>
+    <Transaction>2021/01/25 12:42:15.000.845,C:\Users\Juanma\Desktop\ProyectoMama\Lista_familias.dfm=C:\Users\Juanma\Desktop\ProyectoMama\Unit2.dfm</Transaction>
+    <Transaction>2021/01/25 12:49:58.000.552,=C:\Users\Juanma\Desktop\ProyectoMama\Unit2.pas</Transaction>
+    <Transaction>2021/01/25 12:50:35.000.720,C:\Users\Juanma\Desktop\ProyectoMama\Expediente_detalle.dfm=C:\Users\Juanma\Desktop\ProyectoMama\Unit2.dfm</Transaction>
+    <Transaction>2021/01/25 12:50:35.000.720,C:\Users\Juanma\Desktop\ProyectoMama\Expediente_detalle.pas=C:\Users\Juanma\Desktop\ProyectoMama\Unit2.pas</Transaction>
+    <Transaction>2021/01/25 17:32:05.000.518,=C:\Users\Juanma\Desktop\ProyectoMama\Unit2.pas</Transaction>
+    <Transaction>2021/01/25 17:34:11.000.667,C:\Users\Juanma\Desktop\ProyectoMama\Unit2.dfm=C:\Users\Juanma\Desktop\ProyectoMama\Nueva_ayuda.dfm</Transaction>
+    <Transaction>2021/01/25 17:34:11.000.667,C:\Users\Juanma\Desktop\ProyectoMama\Unit2.pas=C:\Users\Juanma\Desktop\ProyectoMama\Nueva_ayuda.pas</Transaction>
+    <Transaction>2021/02/11 10:57:44.000.444,=C:\Users\Juanma\Desktop\ProyectoMama\Unit2.pas</Transaction>
+    <Transaction>2021/02/11 10:59:04.000.621,C:\Users\Juanma\Desktop\ProyectoMama\Unit2.dfm=C:\Users\Juanma\Desktop\ProyectoMama\ModificEeXP.dfm</Transaction>
+    <Transaction>2021/02/11 10:59:04.000.621,C:\Users\Juanma\Desktop\ProyectoMama\Unit2.pas=C:\Users\Juanma\Desktop\ProyectoMama\ModificEeXP.pas</Transaction>
+    <Transaction>2021/02/13 12:35:03.000.903,=C:\Users\Juanma\Desktop\ProyectoMama\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 12:36:01.000.669,C:\Users\Juanma\Desktop\ProyectoMama\ModifiAyuda.pas=C:\Users\Juanma\Desktop\ProyectoMama\Unit2.pas</Transaction>
+    <Transaction>2021/02/13 12:36:01.000.669,C:\Users\Juanma\Desktop\ProyectoMama\ModifiAyuda.dfm=C:\Users\Juanma\Desktop\ProyectoMama\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
